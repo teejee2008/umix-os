@@ -24,7 +24,7 @@ Even though Unity 7 is no longer actively developed, it is still being  maintain
 
 ![](images/theme.png)
 
-![](images/boot_unlock.png)
+![](images/boot_unlock.jpg)
 
 ![](images/installer.png)
 
@@ -62,7 +62,7 @@ This gives you the following benefits:
 
 **Current (1.5 GB)** — This is same as the “Mini” edition but based on the current Ubuntu release (18.10 Cosmic). A single Umix ISO will be available for the current release every 6 months.
 
-[List of packages](https://drive.google.com/file/d/1qYqxm88AyoiI-Iro989_PrhzzKXd3Y2u/view?usp=sharing)
+[List of packages](packages.xlsx)
 
 ## Notes
 
